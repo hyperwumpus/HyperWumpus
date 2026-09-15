@@ -29,5 +29,7 @@ I am building **HyperWumpus** as the home for my technical projects, experiments
 - [YouTube](https://www.youtube.com/@HyperWumpus)
 - [Twitch](https://www.twitch.tv/hyperwumpus)
 - [Instagram](https://www.instagram.com/hyperwumpus/)
+- [TikTok](https://www.tiktok.com/@hyperwumpus)
+- [LinkedIn](https://www.linkedin.com/in/misael-payan)
 
 I am especially interested in work where curiosity, initiative, communication, and creative problem solving matter.
