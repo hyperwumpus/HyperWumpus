@@ -1,35 +1,30 @@
-# Hi, I'm Misael Payan 👋
+# Misael Payan — HyperWumpus 👑
 
-### Creative problem solver · IT professional · software engineering student · creator
+### Software engineering student · 4+ years enterprise IT · bilingual English/Spanish · builder & creator
 
-I turn unclear problems into useful systems, prototypes, and stories. My background includes more than four years of enterprise IT support, hands-on work with APIs and data integration, and self-directed projects for local businesses and friends.
+I turn unclear problems into working systems. Background: 4+ years enterprise IT support, hands-on API and data work, and a BYU-Idaho Sandbox founder building real products. I build in public as **HyperWumpus** — *same dreams, bigger builds.*
 
-I am building **HyperWumpus** as the home for my technical projects, experiments, gaming content, and creative work. I am open to remote roles and freelance opportunities in technical support, web projects, automation, research, video editing, videography, and idea development.
+## Featured builds
 
-## Featured work
+- **[Scouter](https://github.com/hyperwumpus/business-scout-app)** — Opportunity radar: Google Places + YouTube discovery, explainable lead scoring, quotes, sales pipeline, and income ledger. Node.js + SQLite, 13 automated tests. My Sandbox founder project.
+- **[LeadFlow AI](https://github.com/hyperwumpus/leadflow-ai)** — Working Flask lead-scoring CRM. The closest thing I have to a sellable product.
+- **[Wumpus Studio](https://github.com/hyperwumpus/wumpus-studio)** — Python desktop video editor I built for my own content workflow: timeline, captions, media management, local server.
+- **[fanstock-bot](https://github.com/hyperwumpus/fanstock-bot)** — Discord stock-alert bot: product catalog, price watches, DM restock alerts, Shopify metadata parsing.
+- **[FlipOS](https://github.com/hyperwumpus/flipos)** — Flipping-tracker PWA. A real product with a clean demo.
+- **[YouTube Analytics Toolkit](https://github.com/hyperwumpus/youtube-analytics-toolkit)** — No-install HTML analytics dashboard. Open the file, get answers about your channel.
 
-- **[Local Business Scout](https://github.com/hyperwumpus/business-scout-app)** — Google Places research and lead-pipeline prototype inspired by a real local-business opportunity
-- **[Kainoa's Hawaiian Grill Concept](https://github.com/hyperwumpus/Kainoas-Concept)** — unofficial restaurant storefront and menu concept
-- **[Monica's Sweet Makings Concept](https://github.com/hyperwumpus/Monica-Sweets)** — empathy-driven website concept created to help a friend's business
-- **[Rexburg Auto Repair Concept](https://github.com/hyperwumpus/rexburg-auto-repair-website-concept)** — mobile-first service-business website concept
+## Also building
 
-## Current projects
+- **HyperWumpus Creator OS** — content planning and idea management system
+- **VaultScan** — offline media organizer for massive footage libraries
+- **The Wumpus Hole** — community for builders, streamers, and creators
 
-- **Sugar Salem Insight** — API and data-integration work developed through my IT internship
-- **HyperWumpus OS** — a personal system for analytics research, content planning, and idea management
-- **Scouter** — an expanded concept for discovering opportunities and turning research into action
-- **The Wumpus Hole** — a community server for building, streaming, gaming, and sharing the process
+## Stack
 
-## Experience and tools
-
-`IT support` `incident coordination` `Windows` `Active Directory` `Python` `REST APIs` `JSON` `HTML` `CSS` `JavaScript` `automation` `documentation` `video editing`
+`Python` `JavaScript` `Node.js` `Flask` `SQLite` `REST APIs` `HTML/CSS` `PowerShell` `IT support` `Active Directory` `video editing` `automation`
 
 ## Find me
 
-- [YouTube](https://www.youtube.com/@HyperWumpus)
-- [Twitch](https://www.twitch.tv/hyperwumpus)
-- [Instagram](https://www.instagram.com/hyperwumpus/)
-- [TikTok](https://www.tiktok.com/@hyperwumpus)
-- [LinkedIn](https://www.linkedin.com/in/misael-payan)
+[Portfolio](https://hyperwumpus.github.io) · [YouTube](https://www.youtube.com/@HyperWumpus) · [Twitch](https://www.twitch.tv/hyperwumpus) · [Instagram](https://www.instagram.com/hyperwumpus/) · [TikTok](https://www.tiktok.com/@hyperwumpus) · [LinkedIn](https://www.linkedin.com/in/misael-payan)
 
-I am especially interested in work where curiosity, initiative, communication, and creative problem solving matter.
+Open to internships, freelance builds, and technical roles where curiosity and initiative matter.
