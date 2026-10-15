@@ -1,30 +1,41 @@
-# Misael Payan — HyperWumpus 👑
+# Misael Payan
 
-### Software engineering student · 4+ years enterprise IT · bilingual English/Spanish · builder & creator
+### Software Engineering student (BYU-Idaho '27) · 4+ years enterprise IT · Sandbox founder · Bilingual English/Spanish
 
-I turn unclear problems into working systems. Background: 4+ years enterprise IT support, hands-on API and data work, and a BYU-Idaho Sandbox founder building real products. I build in public as **HyperWumpus** — *same dreams, bigger builds.*
+I build working software and the systems around it. Currently a founder in BYU-Idaho's Sandbox entrepreneurship program, building **Scouter** as a one-person venture. Previously 4+ years in enterprise IT support at Melaleuca (Tier 1.5–2), coordinating critical incidents across global teams.
 
-## Featured builds
+*Same dreams. Bigger builds.*
 
-- **[Scouter](https://github.com/hyperwumpus/business-scout-app)** — Opportunity radar: Google Places + YouTube discovery, explainable lead scoring, quotes, sales pipeline, and income ledger. Node.js + SQLite, 13 automated tests. My Sandbox founder project.
-- **[LeadFlow AI](https://github.com/hyperwumpus/leadflow-ai)** — Working Flask lead-scoring CRM. The closest thing I have to a sellable product.
-- **[Wumpus Studio](https://github.com/hyperwumpus/wumpus-studio)** — Python desktop video editor I built for my own content workflow: timeline, captions, media management, local server.
-- **[fanstock-bot](https://github.com/hyperwumpus/fanstock-bot)** — Discord stock-alert bot: product catalog, price watches, DM restock alerts, Shopify metadata parsing.
-- **[FlipOS](https://github.com/hyperwumpus/flipos)** — Flipping-tracker PWA. A real product with a clean demo.
-- **[YouTube Analytics Toolkit](https://github.com/hyperwumpus/youtube-analytics-toolkit)** — No-install HTML analytics dashboard. Open the file, get answers about your channel.
+## 🚀 Featured work
 
-## Also building
+### [Scouter](https://github.com/hyperwumpus/business-scout-app)
+My main project and Sandbox venture — an opportunity radar for finding freelance clients. Google Places + YouTube discovery, explainable lead scoring, outreach drafts, an 8-stage sales pipeline, quotes, and an income ledger. Local-first Node.js + SQLite app with 13 automated tests.
 
-- **HyperWumpus Creator OS** — content planning and idea management system
-- **VaultScan** — offline media organizer for massive footage libraries
-- **The Wumpus Hole** — community for builders, streamers, and creators
+### [LeadFlow AI](https://github.com/hyperwumpus/leadflow-ai)
+Working lead-scoring CRM (Python/Flask + SQLite) — pipeline for turning cold leads into booked work. The closest thing I have to a sellable product.
 
-## Stack
+### [PowerShell Automation Suite](https://github.com/hyperwumpus/powershell-automation-suite)
+Enterprise IT automation from my support years — practical scripts for workstation management, diagnostics, and repetitive ticket work.
 
-`Python` `JavaScript` `Node.js` `Flask` `SQLite` `REST APIs` `HTML/CSS` `PowerShell` `IT support` `Active Directory` `video editing` `automation`
+### [YouTube Analytics Toolkit](https://github.com/hyperwumpus/youtube-analytics-toolkit)
+No-install analytics dashboard for creators. Open one HTML file and get real answers about your channel — retention, CTR, what to make next.
 
-## Find me
+### [Wumpus Studio](https://github.com/hyperwumpus/wumpus-studio)
+Python desktop video editor with timeline, auto-captions, and media management — built to fix the editing bottleneck in my own content workflow.
 
-[Portfolio](https://hyperwumpus.github.io) · [YouTube](https://www.youtube.com/@HyperWumpus) · [Twitch](https://www.twitch.tv/hyperwumpus) · [Instagram](https://www.instagram.com/hyperwumpus/) · [TikTok](https://www.tiktok.com/@hyperwumpus) · [LinkedIn](https://www.linkedin.com/in/misael-payan)
+## 🛠️ Stack
 
-Open to internships, freelance builds, and technical roles where curiosity and initiative matter.
+`Python` `JavaScript` `Node.js` `Flask` `SQLite` `REST APIs` `HTML/CSS` `PowerShell` `Git` `Active Directory` `IT Support` `Automation`
+
+## 🔗 Find me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hyperwumpus.github.io-ff2e88?style=flat-square)](https://hyperwumpus.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Misael_Payan-0a66c2?style=flat-square)](https://www.linkedin.com/in/misael-payan)
+[![YouTube](https://img.shields.io/badge/YouTube-@HyperWumpus-ff0000?style=flat-square)](https://www.youtube.com/@HyperWumpus)
+[![Twitch](https://img.shields.io/badge/Twitch-hyperwumpus-9146ff?style=flat-square)](https://www.twitch.tv/hyperwumpus)
+[![Instagram](https://img.shields.io/badge/Instagram-@hyperwumpus-e4405f?style=flat-square)](https://www.instagram.com/hyperwumpus/)
+[![TikTok](https://img.shields.io/badge/TikTok-@hyperwumpus-000000?style=flat-square)](https://www.tiktok.com/@hyperwumpus)
+
+📫 **misaelpayan2@gmail.com** — fastest way to reach me.
+
+*Open to software engineering internships and junior developer roles.*
